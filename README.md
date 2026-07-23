@@ -2,16 +2,6 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<p data-importer="text" align="left">I am a passionate Frontend Developer who loves learning new technologies and turning creative designs into clean, functional code</p>
-
-###
-
 <h2 data-importer="text" align="left">Languages and Frameworks</h2>
 
 ###
